@@ -20,9 +20,13 @@ nav{
     font-size: 2rem;
 }
 
+
+/*
 .h1{
     font-size: 4rem;
 }
+*/
+
 
 .titulo{
     background-image: url(./img/imagen_overwatch.avif);
@@ -41,32 +45,99 @@ nav{
 }
 
 .texto_tema_1{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     padding: 5px;
+    margin-left: 1rem;
 }
 
 .h3{
     font-size: 2.5rem;
     color: red;
+    margin-left: 2rem;
 }
 
 .texto_tema_2{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     padding: 10px;
+    margin-left: 1rem;
 }
 
 .organizacion_titulo{
     font-size: 2.5rem;
     padding: 10px;
+    margin-left: 1rem;
 }
 
 .organizacion_texto{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     padding: 5px;
+    margin-left: 1rem;
 }
 
 .organizacion_listas h4{
-    font-size: 2.5rem;
+    font-size: 2.8rem;
     padding: 10px;
     color: rgb(227, 108, 9);
+    margin-left: 3rem;
+}
+
+.organizacion_listas ul{
+    font-size: 1.8rem;
+    margin: 2rem;
+    margin-top: auto;
+    margin-left: 4rem;
+    
+}
+
+.organizacion_listas li{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+
+.figure{
+    width: 80%;
+    margin-left: 13rem;
+    margin-right: 13rem;
+}
+
+
+.texto_tema_3{
+    font-size: 1.8rem;
+    padding: 10px;
+    margin-left: 1rem;
+    text-align: center;
+    margin-right: 1rem;
+}
+
+.texto_tema_4{
+    font-size: 1.8rem;
+    padding: 10px;
+    margin-left: 1rem;
+    text-align: center;
+    margin-right: 1rem;
+}
+
+.texto_tema_5{
+    font-size: 1.8rem;
+    padding: 10px;
+    margin-left: 1rem;
+    text-align: center;
+    margin-right: 1rem;
+}
+
+.texto_tema_6{
+    font-size: 1.8rem;
+    padding: 10px;
+    margin-left: 1rem;
+    text-align: center;
+    margin-right: 1rem;
+}
+
+.texto_tema_7{
+    font-size: 1.8rem;
+    padding: 10px;
+    margin-left: 1rem;
+    text-align: center;
+    margin-right: 1rem;
 }
