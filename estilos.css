@@ -141,3 +141,223 @@ nav{
     text-align: center;
     margin-right: 1rem;
 }
+
+.texto_tema_8{
+    font-size: 1.8rem;
+    padding: 10px;
+    margin-left: 1rem;
+    text-align: center;
+    margin-right: 1rem;
+}
+
+.texto_tema_9{
+    font-size: 1.8rem;
+    padding: 10px;
+    margin-left: 1rem;
+    text-align: center;
+    margin-right: 1rem;
+}
+
+.texto_tema_10{
+    font-size: 1.8rem;
+    padding: 10px;
+    margin-left: 1rem;
+    text-align: center;
+    margin-right: 1rem;
+}
+
+.lista_tema_10 h4{
+    font-size: 2.8rem;
+    padding: 10px;
+    color: rgb(227, 108, 9);
+    margin-left: 3rem;
+}
+
+.lista_tema_10 ul{
+    font-size: 1.8rem;
+    margin: 2rem;
+    margin-top: auto;
+    margin-left: 4rem;
+    
+}
+
+.lista_tema_10 li{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.footer{
+    background-color: black;
+    background-size: cover;
+    margin-bottom:auto;
+    padding-bottom: 0px;
+}
+
+.h5{
+    font-size: 2.6rem;
+    padding: 10px;
+    color: rgb(227, 108, 9);
+    margin-left: 3rem;
+}
+
+.texto_footer{
+    font-size: 1.8rem;
+    padding: 10px;
+    margin-left: 1rem;
+    text-align: center;
+    margin-right: 1rem;
+}
+
+
+
+
+/*Mobile*/
+
+@media(max-width:552px){
+    .titulo{
+        background-image: url(./img/imagen_overwatch.avif);
+        width: 100%;
+        height: 200px;
+        background-size: cover;
+        background-position: center;
+        color:black;
+        font-weight: 700px;
+        display: inline-table
+    }
+
+    .video_1 iframe{
+        width: 500px;
+        height: 300px;
+    }
+
+    .figure{
+        margin-left: 6rem;
+        margin-right: 0px;
+    }
+
+    .video_2 iframe{
+        width: 500px;
+        height: 300px;
+    }
+
+    .video_3 iframe{
+        width: 500px;
+        height: 300px;
+    }
+
+    .video_4 iframe{
+        width: 500px;
+        height: 300px;
+    }
+
+    .video_5 iframe{
+        width: 500px;
+        height: 300px;
+    }
+
+    .video_6 iframe{
+        width: 500px;
+        height: 300px;
+    }
+
+}
+
+
+ /* Escritorios*/
+  
+ @media(min-width:992px){
+    .titulo{
+        background-image: url(./img/imagen_overwatch.avif);
+        width: 100%;
+        height: 400px;
+        background-size: cover;
+        background-position: center;
+        color:black;
+        font-weight: 700px;
+        display: inline-table
+    }
+
+    .video_1 iframe{
+        width: 850px;
+        height: 450px;
+    }
+
+    .figure{
+        margin-left: 10rem;
+        margin-right: 0px;
+    }
+
+    .video_2 iframe{
+        width: 850px;
+        height: 450px;
+    }
+
+    .video_3 iframe{
+        width: 850px;
+        height: 450px;
+    }
+
+    .video_4 iframe{
+        width: 850px;
+        height: 450px;
+    }
+
+    .video_5 iframe{
+        width: 850px;
+        height: 450px;
+    }
+
+    .video_6 iframe{
+        width: 850px;
+        height: 450px;
+    }
+ }
+
+ /* Pantallas grandes */
+ @media(min-width:1200px){
+    .titulo{
+        background-image: url(./img/imagen_overwatch.avif);
+        width: 100%;
+        height: 400px;
+        background-size: cover;
+        background-position: center;
+        color:black;
+        font-weight: 700px;
+        display: inline-table
+    }
+
+    .video_1 iframe{
+        width: 1000px;
+        height: 550px;
+    }
+
+    .figure{
+        margin-left: 12rem;
+        margin-right: 0px;
+    }
+
+    .video_2 iframe{
+        width: 1000px;
+        height: 550px;
+    }
+
+    .video_3 iframe{
+        width: 1000px;
+        height: 550px;
+    }
+
+    .video_4 iframe{
+        width: 1000px;
+        height: 550px;
+    }
+
+    .video_5 iframe{
+        width: 1000px;
+        height: 550px;
+    }
+
+    .video_6 iframe{
+        width: 1000px;
+        height: 550px;
+    }
+ }
