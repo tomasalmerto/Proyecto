@@ -361,3 +361,38 @@ nav{
         height: 550px;
     }
  }
+
+
+
+ /*heroes.html*/
+
+
+ .titulo_heroes{
+    background-image: url(./img/OW_heroes.webp);
+    width: 100%;
+    height: 470px;
+    background-size: cover;
+    background-position: center;
+    color:black;
+    font-weight: 700px;
+    display: inline-table
+}
+
+
+
+
+
+
+
+
+
+
+/*modos.html*/
+
+
+.titulo_modos{
+    color:white;
+    font-weight: 700px;
+    display: inline-table;
+}
+
