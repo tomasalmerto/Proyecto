@@ -378,6 +378,61 @@ nav{
     display: inline-table
 }
 
+.roles{
+    display: flex;
+    gap: 27%;
+    padding-left: 10%;
+}
+
+.tarjeta_1{
+    width: 80px;
+    padding: 8px;
+    height: 160px;
+}
+
+.tarjeta_2{
+    width: 80px;
+    padding: 8px;
+    height: 160px;
+}
+
+.tarjeta_3{
+    width: 80px;
+    padding: 8px;
+    height: 160px;
+}
+
+.tarjeta_1:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tarjeta_2:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tarjeta_3:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tanque_texto{
+    margin-left: 2.5rem;
+}
+
+.daño_texto{
+    margin-left: 3.5rem;
+}
+
+.support_texto{
+    margin-left: 2.5rem;
+}
+
+
+
+
+
 
 
 
